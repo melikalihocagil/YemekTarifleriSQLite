@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MyAppBarStyle" parent="Widget.MaterialComponents.Toolbar.Primary">
+        <!-- AppBar başlık rengini belirleme -->
+        <item name="android:titleTextColor">@color/white</item>
+        <item name="iconTint">@color/white</item>
+    </style>
+</resources>
